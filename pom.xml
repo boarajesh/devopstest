@@ -45,9 +45,9 @@
                     <source>1.8</source>
                     <target>1.8</target>
                 </configuration>
-               </plugin>
-               </plugins>
-          </build>
+             </plugin>
+       </plugins>
+      </build>
     <properties>
   <sonar.projectKey>boarajesh_devopstest</sonar.projectKey>
   <sonar.organization>boarajesh</sonar.organization>
