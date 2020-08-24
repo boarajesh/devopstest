@@ -45,18 +45,7 @@
                     <source>1.8</source>
                     <target>1.8</target>
                 </configuration>
-        <artifactId>sonar-maven-plugin</artifactId>
-      <version>3.5.0.1254</version>
-      <executions>
-        <execution>
-          <phase>verify</phase>
-          <goals>
-            <goal>sonar</goal>
-          </goals>
-        </execution>
-      </executions>
-            </plugin>
-        </plugins>
+               </plugins>
   </build>
   
   <properties>
