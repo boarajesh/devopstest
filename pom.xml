@@ -52,7 +52,7 @@
     <snapshotRepository>
         <id>snapshots</id>
         <name>ip-172-31-47-176.ap-south-1.compute.internal-snapshots</name>
-        <url>http://ec2-15-206-122-72.ap-south-1.compute.amazonaws.com:8081/artifactory/libs-snapshot</url>
+        <url>http://ec2-13-127-98-168.ap-south-1.compute.amazonaws.com:8081/artifactory/libs-snapshot</url>
     </snapshotRepository>
 </distributionManagement>
      </project>
