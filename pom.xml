@@ -48,18 +48,16 @@
              </plugin>
        </plugins>
       </build>
-      <distributionManagement>
-        <distributionManagement>
+     <distributionManagement>
     <repository>
         <id>central</id>
         <name>ip-172-31-47-176.ap-south-1.compute.internal-releases</name>
-        <url>http://ec2-13-127-98-168.ap-south-1.compute.amazonaws.com:8081/artifactory/libs-release</url>
+        <url>http://ec2-13-232-82-68.ap-south-1.compute.amazonaws.com:8081/artifactory/libs-release</url>
     </repository>
-</distributionManagement>
     <snapshotRepository>
         <id>snapshots</id>
         <name>ip-172-31-47-176.ap-south-1.compute.internal-snapshots</name>
-        <url>http://ec2-13-127-98-168.ap-south-1.compute.amazonaws.com:8081/artifactory/libs-snapshot</url>
+        <url>http://ec2-13-232-82-68.ap-south-1.compute.amazonaws.com:8081/artifactory/libs-snapshot</url>
     </snapshotRepository>
 </distributionManagement>
      </project>
