@@ -49,8 +49,7 @@
        </plugins>
       </build>
   <distributionManagement>
-    <repository>
-       <repository>
+      <repository>
         <id>Artifact</id>
         <name>ip-172-31-47-176.ap-south-1.compute.internal-releases</name>
         <url>http://ec2-52-66-124-112.ap-south-1.compute.amazonaws.com:8081/artifactory/libs-release-local</url>
